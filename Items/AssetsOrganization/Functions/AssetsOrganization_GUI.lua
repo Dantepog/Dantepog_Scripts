@@ -152,7 +152,7 @@ function loop()
                 end
                 --Video
                 if reaper.ImGui_MenuItem(ctx, 'Video') then
-                    reaper.CF_ShellExecute('https://www.youtube.com/@dantepog')
+                    reaper.CF_ShellExecute('https://youtu.be/9rEwwqmUUu8?si=F-X3QeMXLEY0W1xe')
                 end
                 reaper.ImGui_EndMenu(ctx)
             end
