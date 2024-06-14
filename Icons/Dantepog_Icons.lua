@@ -3,9 +3,10 @@
 -- @version 1.0
 -- @changelog
 --   1.0 Initial Release
+
 -- @about
 --   # Dantepog_Icons
 --
---   Custom dantepog toolbar icons.
+--   Custom Dantepog toolbar icons .
 -- @provides
---  [data] toolbar_icons/**/*.png
+--  [data] *.png
