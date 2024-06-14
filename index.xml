@@ -1,27 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Dantepog Scripts" commit="c2f7e82385b9d2a18ab902b7a385c7a0fa7a9555">
-  <category name="Example">
-    <reapack name="cfillion_Hello world.lua" type="script" desc="Hello world">
-      <metadata>
-        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
-{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
-\widowctrl\hyphauto
-
-{\pard \ql \f0 \sa180 \li0 \fi0 This is an example of a package file. It installs itself as a ReaScript that does nothing but show "Hello World!" in REAPER's scripting console.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Packages may also include additional files specified using the @provides tag.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 This text is the documentation shown when using ReaPack's "About this package" feature. {\field{\*\fldinst{HYPERLINK "https://commonmark.org/"}}{\fldrslt{\ul
-Markdown
-}}}
- {\i formatting} is supported.\par}
-}
-]]></description>
-      </metadata>
-      <version name="1.0" author="cfillion" time="2021-01-04T23:30:32Z">
-        <source main="main">https://github.com/cfillion/reapack-repository-template/raw/58a3e39ba95bd0f35846aa1f39aa4cb2574295e1/Example/cfillion_Hello%20world.lua</source>
-      </version>
-    </reapack>
-  </category>
-  <category name="Item/Assets Organization">
+<index version="1" name="Dantepog Scripts" commit="bb1da172e86546f30772c0642021a2eb98496d76">
+  <category name="Items/Assets Organization">
     <reapack name="Dantepog_AssetsOrganization.lua" type="script" desc="Dantepog_AssetsOrganization">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
@@ -34,11 +13,11 @@ Markdown
 }
 ]]></description>
       </metadata>
-      <version name="1.01" author="Dantepog" time="2024-06-14T20:51:52Z">
-        <source main="main">https://github.com/Dantepog/Dantepog_Scripts/raw/c2f7e82385b9d2a18ab902b7a385c7a0fa7a9555/Item/Assets%20Organization/Dantepog_AssetsOrganization.lua</source>
-        <source file="Functions/AssetsOrganization_Functions.lua">https://github.com/Dantepog/Dantepog_Scripts/raw/c2f7e82385b9d2a18ab902b7a385c7a0fa7a9555/Item/Assets%20Organization/Functions/AssetsOrganization_Functions.lua</source>
-        <source file="Functions/AssetsOrganization_GUI.lua">https://github.com/Dantepog/Dantepog_Scripts/raw/c2f7e82385b9d2a18ab902b7a385c7a0fa7a9555/Item/Assets%20Organization/Functions/AssetsOrganization_GUI.lua</source>
-        <source file="Functions/AssetsOrganization_Storage.lua">https://github.com/Dantepog/Dantepog_Scripts/raw/c2f7e82385b9d2a18ab902b7a385c7a0fa7a9555/Item/Assets%20Organization/Functions/AssetsOrganization_Storage.lua</source>
+      <version name="1.01" author="Dantepog" time="2024-06-14T21:00:17Z">
+        <source main="main">https://github.com/Dantepog/Dantepog_Scripts/raw/bb1da172e86546f30772c0642021a2eb98496d76/Items/Assets%20Organization/Dantepog_AssetsOrganization.lua</source>
+        <source file="Functions/AssetsOrganization_Functions.lua">https://github.com/Dantepog/Dantepog_Scripts/raw/bb1da172e86546f30772c0642021a2eb98496d76/Items/Assets%20Organization/Functions/AssetsOrganization_Functions.lua</source>
+        <source file="Functions/AssetsOrganization_GUI.lua">https://github.com/Dantepog/Dantepog_Scripts/raw/bb1da172e86546f30772c0642021a2eb98496d76/Items/Assets%20Organization/Functions/AssetsOrganization_GUI.lua</source>
+        <source file="Functions/AssetsOrganization_Storage.lua">https://github.com/Dantepog/Dantepog_Scripts/raw/bb1da172e86546f30772c0642021a2eb98496d76/Items/Assets%20Organization/Functions/AssetsOrganization_Storage.lua</source>
       </version>
     </reapack>
   </category>
