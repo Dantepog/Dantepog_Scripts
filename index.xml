@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Dantepog Scripts" commit="bb1da172e86546f30772c0642021a2eb98496d76">
-  <category name="Items/Assets Organization">
+<index version="1" name="Dantepog Scripts" commit="00de42d70930610ea8e0a9302dec3c1371aa1b05">
+  <category name="Items/AssetsOrganization">
     <reapack name="Dantepog_AssetsOrganization.lua" type="script" desc="Dantepog_AssetsOrganization">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
@@ -13,11 +13,11 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.01" author="Dantepog" time="2024-06-14T21:00:17Z">
-        <source main="main">https://github.com/Dantepog/Dantepog_Scripts/raw/bb1da172e86546f30772c0642021a2eb98496d76/Items/Assets%20Organization/Dantepog_AssetsOrganization.lua</source>
-        <source file="Functions/AssetsOrganization_Functions.lua">https://github.com/Dantepog/Dantepog_Scripts/raw/bb1da172e86546f30772c0642021a2eb98496d76/Items/Assets%20Organization/Functions/AssetsOrganization_Functions.lua</source>
-        <source file="Functions/AssetsOrganization_GUI.lua">https://github.com/Dantepog/Dantepog_Scripts/raw/bb1da172e86546f30772c0642021a2eb98496d76/Items/Assets%20Organization/Functions/AssetsOrganization_GUI.lua</source>
-        <source file="Functions/AssetsOrganization_Storage.lua">https://github.com/Dantepog/Dantepog_Scripts/raw/bb1da172e86546f30772c0642021a2eb98496d76/Items/Assets%20Organization/Functions/AssetsOrganization_Storage.lua</source>
+      <version name="1.01" author="Dantepog" time="2024-06-14T21:29:08Z">
+        <source main="main">https://github.com/Dantepog/Dantepog_Scripts/raw/00de42d70930610ea8e0a9302dec3c1371aa1b05/Items/AssetsOrganization/Dantepog_AssetsOrganization.lua</source>
+        <source file="Functions/AssetsOrganization_Functions.lua">https://github.com/Dantepog/Dantepog_Scripts/raw/00de42d70930610ea8e0a9302dec3c1371aa1b05/Items/AssetsOrganization/Functions/AssetsOrganization_Functions.lua</source>
+        <source file="Functions/AssetsOrganization_GUI.lua">https://github.com/Dantepog/Dantepog_Scripts/raw/00de42d70930610ea8e0a9302dec3c1371aa1b05/Items/AssetsOrganization/Functions/AssetsOrganization_GUI.lua</source>
+        <source file="Functions/AssetsOrganization_Storage.lua">https://github.com/Dantepog/Dantepog_Scripts/raw/00de42d70930610ea8e0a9302dec3c1371aa1b05/Items/AssetsOrganization/Functions/AssetsOrganization_Storage.lua</source>
       </version>
     </reapack>
   </category>
