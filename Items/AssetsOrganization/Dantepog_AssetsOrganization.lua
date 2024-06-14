@@ -13,16 +13,16 @@
 
 
 -- Load functions from the functions script
-dofile(reaper.GetResourcePath().."/Scripts/Dantepog Scripts/Items/Assets Organization/Functions/AssetsOrganization_Functions.lua")
+dofile(reaper.GetResourcePath().."/Scripts/Dantepog Scripts/Items/AssetsOrganization/Functions/AssetsOrganization_Functions.lua")
 
 -- Load the graphical interface from the interface script
-dofile(reaper.GetResourcePath().."/Scripts/Dantepog Scripts/Items/Assets Organization/Functions/AssetsOrganization_GUI.lua")
+dofile(reaper.GetResourcePath().."/Scripts/Dantepog Scripts/Items/AssetsOrganization/Functions/AssetsOrganization_GUI.lua")
 
 
 -- Variables globales
 ScriptVersion = "1.01"
 ScriptName = 'Assets Organization'
-local storageFile = reaper.GetResourcePath().."/Scripts/Dantepog Scripts/Items/Assets Organization/Functions/AssetsOrganization_Storage.lua"
+local storageFile = reaper.GetResourcePath().."/Scripts/Dantepog Scripts/Items/AssetsOrganization/Functions/AssetsOrganization_Storage.lua"
 
 -- Tabla para almacenar los nombres de los tracks por color
 trackNames = {}
