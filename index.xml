@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Dantepog Scripts" commit="00de42d70930610ea8e0a9302dec3c1371aa1b05">
+<index version="1" name="Dantepog Scripts" commit="c6be0a04a7e7cdd6b1f69ab35bb92304ccab3af5">
+  <category name="Icons">
+    <reapack name="Dantepog_Icons.lua" type="script" desc="Dantepog_Icons">
+      <version name="1.0" author="Dantepog" time="2024-06-14T21:50:53Z">
+        <changelog><![CDATA[1.0 Initial Release]]></changelog>
+        <source main="main">https://github.com/Dantepog/Dantepog_Scripts/raw/c6be0a04a7e7cdd6b1f69ab35bb92304ccab3af5/Icons/Dantepog_Icons.lua</source>
+      </version>
+    </reapack>
+  </category>
   <category name="Items/AssetsOrganization">
     <reapack name="Dantepog_AssetsOrganization.lua" type="script" desc="Dantepog_AssetsOrganization">
       <metadata>
