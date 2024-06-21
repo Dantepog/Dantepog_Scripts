@@ -36,6 +36,7 @@
 
 {\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 ReaPack Repository\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 This is Reapack Repository from Dantepog !\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab My scripts use "ReaImGui - ReaScript Binding for Dear ImGui" and "js_ReaScript API" to work. Install them on your Reaper using Reapack with the "Reascripts" repository -\sa180\par}
 }
 ]]></description>
   </metadata>
