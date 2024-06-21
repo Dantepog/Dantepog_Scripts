@@ -4,6 +4,7 @@
 -- @about
 --    ## Assets Organization
 --    AssetsOrganization is a script designed to optimize the workflow and organization of assets within our project.
+--    - This scripts use "ReaImGui - ReaScript Binding for Dear ImGui" and "js_ReaScript API" to work. Install them on your Reaper using Reapack with the "ReaTeam Extension" Repository -
 --
 --
 --    Thank fo using this Script. Dantepog
