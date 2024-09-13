@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Dantepog Scripts" commit="c6be0a04a7e7cdd6b1f69ab35bb92304ccab3af5">
+<index version="1" name="Dantepog Scripts" commit="8fa6b8a9f68bf65475348638e357dbcecfc19811">
   <category name="Icons">
     <reapack name="Dantepog_Icons.lua" type="script" desc="Dantepog_Icons">
       <version name="1.0" author="Dantepog" time="2024-06-14T21:50:53Z">
@@ -17,6 +17,7 @@
 
 {\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 Assets Organization\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 AssetsOrganization is a script designed to optimize the workflow and organization of assets within our project.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab This scripts use "ReaImGui - ReaScript Binding for Dear ImGui" and "js_ReaScript API" to work. Install them on your Reaper using Reapack with the "ReaTeam Extension" Repository -\sa180\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 Thank fo using this Script. Dantepog\par}
 }
 ]]></description>
@@ -36,7 +37,8 @@
 
 {\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 ReaPack Repository\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 This is Reapack Repository from Dantepog !\par}
-{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab My scripts use "ReaImGui - ReaScript Binding for Dear ImGui" and "js_ReaScript API" to work. Install them on your Reaper using Reapack with the "ReaTeam Extension" Repository -\sa180\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab My scripts use "ReaImGui - ReaScript Binding for Dear ImGui" and "js_ReaScript API" to work. Install them on your Reaper using Reapack with the "ReaTeam Extension" Repository -\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab Copy and paste this URL in Extensions > ReaPack > Import a repository: https://raw.githubusercontent.com/Dantepog/Dantepog_Scripts/master/index.xml\sa180\par}
 }
 ]]></description>
   </metadata>
