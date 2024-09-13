@@ -260,7 +260,6 @@ function PushTheme()
     reaper.ImGui_PushStyleColor(ctx, reaper.ImGui_Col_TabHovered(),         0x7A4AFC8A)
 
 end
-
 function PopTheme()
     reaper.ImGui_PopStyleVar(ctx, 5)
     reaper.ImGui_PopStyleColor(ctx, 21)
