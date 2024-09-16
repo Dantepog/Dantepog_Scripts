@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Dantepog Scripts" commit="8fa6b8a9f68bf65475348638e357dbcecfc19811">
+<index version="1" name="Dantepog Scripts" commit="fbc6943f83d6d6418baa7a45d7c8785db7d6f81f">
   <category name="Icons">
     <reapack name="Dantepog_Icons.lua" type="script" desc="Dantepog_Icons">
       <version name="1.02" author="Dantepog" time="2024-06-14T21:50:53Z">
@@ -27,6 +27,12 @@
         <source file="Functions/AssetsOrganization_Functions.lua">https://github.com/Dantepog/Dantepog_Scripts/raw/00de42d70930610ea8e0a9302dec3c1371aa1b05/Items/AssetsOrganization/Functions/AssetsOrganization_Functions.lua</source>
         <source file="Functions/AssetsOrganization_GUI.lua">https://github.com/Dantepog/Dantepog_Scripts/raw/00de42d70930610ea8e0a9302dec3c1371aa1b05/Items/AssetsOrganization/Functions/AssetsOrganization_GUI.lua</source>
         <source file="Functions/AssetsOrganization_Storage.lua">https://github.com/Dantepog/Dantepog_Scripts/raw/00de42d70930610ea8e0a9302dec3c1371aa1b05/Items/AssetsOrganization/Functions/AssetsOrganization_Storage.lua</source>
+      </version>
+      <version name="1.02" author="Dantepog" time="2024-09-16T12:10:33Z">
+        <source main="main">https://github.com/Dantepog/Dantepog_Scripts/raw/fbc6943f83d6d6418baa7a45d7c8785db7d6f81f/Items/AssetsOrganization/Dantepog_AssetsOrganization.lua</source>
+        <source file="Functions/AssetsOrganization_Functions.lua">https://github.com/Dantepog/Dantepog_Scripts/raw/fbc6943f83d6d6418baa7a45d7c8785db7d6f81f/Items/AssetsOrganization/Functions/AssetsOrganization_Functions.lua</source>
+        <source file="Functions/AssetsOrganization_GUI.lua">https://github.com/Dantepog/Dantepog_Scripts/raw/fbc6943f83d6d6418baa7a45d7c8785db7d6f81f/Items/AssetsOrganization/Functions/AssetsOrganization_GUI.lua</source>
+        <source file="Functions/AssetsOrganization_Storage.lua">https://github.com/Dantepog/Dantepog_Scripts/raw/fbc6943f83d6d6418baa7a45d7c8785db7d6f81f/Items/AssetsOrganization/Functions/AssetsOrganization_Storage.lua</source>
       </version>
     </reapack>
   </category>
