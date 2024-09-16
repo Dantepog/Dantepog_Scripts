@@ -2,7 +2,7 @@
 <index version="1" name="Dantepog Scripts" commit="8fa6b8a9f68bf65475348638e357dbcecfc19811">
   <category name="Icons">
     <reapack name="Dantepog_Icons.lua" type="script" desc="Dantepog_Icons">
-      <version name="1.0" author="Dantepog" time="2024-06-14T21:50:53Z">
+      <version name="1.02" author="Dantepog" time="2024-06-14T21:50:53Z">
         <changelog><![CDATA[1.0 Initial Release]]></changelog>
         <source main="main">https://github.com/Dantepog/Dantepog_Scripts/raw/c6be0a04a7e7cdd6b1f69ab35bb92304ccab3af5/Icons/Dantepog_Icons.lua</source>
       </version>

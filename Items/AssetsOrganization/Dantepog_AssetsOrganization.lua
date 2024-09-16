@@ -1,6 +1,6 @@
 -- @description Dantepog_AssetsOrganization
 -- @author Dantepog
--- @version 1.01
+-- @version 1.02
 -- @about
 --    ## Assets Organization
 --    AssetsOrganization is a script designed to optimize the workflow and organization of assets within our project.
